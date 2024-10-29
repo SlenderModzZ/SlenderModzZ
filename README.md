@@ -1,9 +1,17 @@
-Skills
+  ___________   .__.__  .__   <br/>       
+ /   _____/  | _|__|  | |  |   ______ <br/>
+ \_____  \|  |/ /  |  | |  |  /  ___/ <br/>
+ /        \    <|  |  |_|  |__\___ \ <br/>
+/_______  /__|_ \__|____/____/____  > <br/>
+        \/     \/                 \/ <br/>
+C++ , C#, Lua, Java, JS, CSS, HTML <br/>
 
-C++ , C#, Lua, Java, JS, CSS, HTML
 
-
-Contact
-
-discord : slendermodzz
-email : slendermodzz@gmail.com
+_________                __                 __   <br/>
+\_   ___ \  ____   _____/  |______    _____/  |_ <br/>
+/    \  \/ /  _ \ /    \   __\__  \ _/ ___\   __\<br/>
+\     \___(  <_> )   |  \  |  / __ \\  \___|  |  <br/>
+ \______  /\____/|___|  /__| (____  /\___  >__|  <br/>
+        \/            \/          \/     \/      <br/>
+discord : slendermodzz <br/>
+email : slendermodzz@gmail.com <br/>
